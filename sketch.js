@@ -67,7 +67,7 @@ function draw() {
 
   if(!sound.isPlaying()){
     sound.play();
-    sound.setVolume(0.1);
+   // sound.setVolume(0.1);
     }
 
   for (var i = 0; i < playerArrows.length; i++) {
